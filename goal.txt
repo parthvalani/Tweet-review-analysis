@@ -4,4 +4,4 @@ Hi,my name is parth
 This is my first project on github
 
 
-My code is not only review the tweet but also it also fatch emoji from the tweet.
+My code is not only review the tweet but also it also fatch emoji from the tweet using twitter API
