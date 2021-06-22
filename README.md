@@ -72,6 +72,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- CONTACT -->
 ## Contact
-Parth Valani - [@parth_valani](https://twitter.com/parth_valani) - valaniparth13@gmail.com
+Parth Valani - [@parth_valani](https://www.linkedin.com/in/parthvalani/) - parthnvalani@gmail.com
 
 Project Link: [https://github.com/parthvalani/Tweet-review-analysis](https://github.com/parthvalani/Tweet-review-analysis/)
